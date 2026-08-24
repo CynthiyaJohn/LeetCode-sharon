@@ -32,4 +32,16 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0242-valid-anagram/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
