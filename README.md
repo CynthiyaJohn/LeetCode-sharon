@@ -10,6 +10,7 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -23,11 +24,13 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -42,6 +45,7 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +56,7 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | [0088-merge-sorted-array](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +69,8 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0169-majority-element/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
