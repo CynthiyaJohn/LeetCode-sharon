@@ -6,6 +6,7 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -16,6 +17,7 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -45,5 +47,6 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
