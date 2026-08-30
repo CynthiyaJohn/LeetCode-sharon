@@ -12,6 +12,7 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | [0169-majority-element](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | [0169-majority-element](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +75,9 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 <!---LeetCode Topics End-->
