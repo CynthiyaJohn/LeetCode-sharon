@@ -7,6 +7,7 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
