@@ -74,6 +74,7 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0169-majority-element/) | Easy |
+| [1603-design-parking-system](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/1603-design-parking-system/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +89,12 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
