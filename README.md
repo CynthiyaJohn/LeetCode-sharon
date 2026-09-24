@@ -14,6 +14,7 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | [0169-majority-element](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
@@ -65,6 +66,7 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | [0169-majority-element](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0268-missing-number/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +85,7 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/0268-missing-number/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
@@ -97,4 +100,20 @@ LeetCode solutions in Java and JavaScript covering Data Structures, Algorithms, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/1603-design-parking-system/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/CynthiyaJohn/LeetCode-sharon/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 <!---LeetCode Topics End-->
